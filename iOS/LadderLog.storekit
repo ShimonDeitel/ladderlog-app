@@ -1,0 +1,27 @@
+{
+  "identifier": "SK_CONFIG",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "PRO1",
+      "localizations": [
+        {
+          "description": "Unlimited ladders, inspection-due alerts, and defect photo history",
+          "displayName": "Ladder Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.ladderlog.pro",
+      "referenceName": "Ladder Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
